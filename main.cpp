@@ -6,5 +6,8 @@ std::cout<<"Hello"<<std::endl;
 std::cout<<"Hello"<<std::endl;
 std::cout<<"Hello"<<std::endl;
 std::cout<<"Hello"<<std::endl;
+	if(1){
+		std::cout<<"tutu"<<std::endl;
+	}
 	return 0;
 }
